@@ -21,3 +21,4 @@ def publishArtifacts() {
 
     server.upload spec: uploadSpec
 }
+return this
